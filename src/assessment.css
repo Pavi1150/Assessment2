@@ -1,0 +1,113 @@
+.imagetext{
+  position: absolute;
+  top: 45%;
+  left:10%;  
+  color: white;
+  font-size: 64px;   
+}
+.backgrounfColorClass{
+    background-color: #40BFFF;
+    color:white;    
+}
+.card1{
+    padding: 10px;
+    background-color: #d3d3d3e6 !important;
+    height: 270px;
+    border-radius:5px ;    
+}
+.productClass{
+    height: 170px;
+    width: 100%;
+    object-fit: cover;
+    margin-top: 15%;
+}
+.fs{
+    font-size: 12px;
+}
+.orangecolor{
+    color: orange;  
+    font-size: px;
+    margin-left: 10px;  
+}
+.pricecolor{    
+    color: rgb(35, 209, 209);   
+    font-size: 13px; 
+}
+.size{
+    font-size: 14px;
+}
+.move{
+    position: relative;
+    bottom: 10%;
+}
+.color{
+    color:white;
+    font-size: 17px;
+}
+.bg{
+    background-color: #BCDDFE;
+}
+.bor{
+    text-underline-offset: 0.3rem;
+}
+.dropdown-menu {    
+    min-width: 56rem !important;    
+    transform: translate3d(-180px, 37.6px, 0px) !important;
+}
+.zoom{
+    color: #FFC600 !important;
+}
+.zoom:hover {    
+    color: rgb(0, 157, 255) !important;
+    transform: scale(1.5); 
+}
+hr{
+      color: white;
+}
+.text-26{
+color:#6c646499;
+}
+.product-title{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    color: #223263;
+}
+.form-control{
+    outline: none;
+    border:1px solid skyblue !important;
+}
+.border{
+    border:2px solid white;
+}
+.l-size{
+    font-size: 18px;
+}
+.cardPair{
+    position: relative !important;
+    bottom: 100px !important;
+}
+.productClass{
+    height: 170px;
+    width: 100%;
+    object-fit: cover;
+    margin-top: 8%;
+}
+.productClass1{
+    margin-top: 7% !important;
+    height: 170px;
+    width: 100%;
+    object-fit: cover;    
+}
+.productClass2{
+    height: 170px;
+    width: 100%;
+    object-fit: cover;
+    margin-top:3% !important;   
+}
+.color-ce{
+    color:#C1C8CE;
+}
